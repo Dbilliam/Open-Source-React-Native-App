@@ -1,7 +1,8 @@
 # Open-Source-React-Native-App
 React Native Apps is a showcase of only open source React Native apps. These apps do not have to be published to the App Store or anything, they are simply here to showcase work from within the community, and to help React Native developers by seeing how others are building and structuring their applications.
 
-[<img src="https://user-images.githubusercontent.com/51543360/155975789-424d0676-fa34-4a22-9d47-bd730d9ed826.jpg" />](https://paytm.me/7fZ-eQR)
+
+[<img src="https://user-images.githubusercontent.com/51543360/155977108-bf2b93f0-0d12-449f-b2cd-9646a6ec2acf.png"/>](https://paytm.me/7fZ-eQR)
 
 ## Open Source React Native Apps
 
